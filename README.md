@@ -1,1 +1,2 @@
-# my-first-repo
+# my-first-repo## How to Run
+python hello.py
